@@ -270,4 +270,4 @@ if [[ ! ($* == *--no-restart*) ]]; then
   done
 fi
 
-printf "Please log out and log back in to make all settings take effect.\n"
+printf "Please log out and log back in, to make all settings take effect.\n"
