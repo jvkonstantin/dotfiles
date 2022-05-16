@@ -16,7 +16,7 @@ export ZSH="$HOME/.oh-my-zsh"
 #ZSH THEME
 ZSH_THEME="dpoggi" # set by `omz`
 
-plugins=(git, zsh-autosuggestions)
+plugins=(git zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
